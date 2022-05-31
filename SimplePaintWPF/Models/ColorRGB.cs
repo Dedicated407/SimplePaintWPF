@@ -1,4 +1,4 @@
-﻿namespace SimplePaintWPF;
+﻿namespace SimplePaintWPF.Models;
 
 public class ColorRGB
 {
